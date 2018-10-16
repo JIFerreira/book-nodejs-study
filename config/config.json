@@ -1,0 +1,9 @@
+{
+    "mongo": {
+        "username": "",
+        "password": "",
+        "server": "127.0.0.1/service",
+        "port": 27017,
+        "database": "livro_nodejs"
+    }
+}
